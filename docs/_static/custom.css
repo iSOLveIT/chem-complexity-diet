@@ -100,10 +100,13 @@ html .md-nav--primary .md-nav__title--site .md-nav__button {
     text-align: center;
 }
 
-cite {
+.md-typeset figcaption {
+    max-width: initial!important;
+}
+/*cite {
     background-color: #ffff00!important;
     color:#000!important;
-}
+}*/
 
 /* Begin Custom Admonitions */
 

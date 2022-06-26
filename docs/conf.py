@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Chemical Complexity of Diet'
-copyright = '2022, Albert-László Barabási et al'
+copyright = '2019, Albert-László Barabási et al'
 author = 'Albert-László Barabási, Giulia Menichetti and Joseph Loscalzo'
 
 # -- General configuration ---------------------------------------------------
