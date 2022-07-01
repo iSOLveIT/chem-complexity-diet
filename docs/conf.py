@@ -72,7 +72,7 @@ html_theme_options = {
     "repo_url": "https://github.com/iSOLveIT/chem-complexity-diet",
     "repo_name": "Chem-Complexity-Diet",
     "repo_type": "github",
-    "edit_uri": "blob/main/docs/source/",
+    "edit_uri": "blob/main/docs/",
     "globaltoc_collapse": True,
     "features": [
         # "navigation.expand",
